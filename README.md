@@ -121,3 +121,4 @@ y el push
 git push
 ```
 Apertura siciliana 1e4 c5
+Apertura Francesa 1e4 e6
